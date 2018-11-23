@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Mounira94/timerReact/precache-manifest.12cdefa0ff5443cd5457c473610d56cb.js"
+  "/timerReact/precache-manifest.76cf57f13ea7888ab5b74642aacfc09b.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/Mounira94/timerReact/index.html", {
+workbox.routing.registerNavigationRoute("/timerReact/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

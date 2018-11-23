@@ -1,13 +1,13 @@
 {
-  "main.css": "/Mounira94/timerReact/static/css/main.10bb2cea.chunk.css",
-  "main.js": "/Mounira94/timerReact/static/js/main.c3f8fae0.chunk.js",
-  "main.js.map": "/Mounira94/timerReact/static/js/main.c3f8fae0.chunk.js.map",
-  "static/js/1.f0a4ce05.chunk.js": "/Mounira94/timerReact/static/js/1.f0a4ce05.chunk.js",
-  "static/js/1.f0a4ce05.chunk.js.map": "/Mounira94/timerReact/static/js/1.f0a4ce05.chunk.js.map",
-  "runtime~main.js": "/Mounira94/timerReact/static/js/runtime~main.f0ce548b.js",
-  "runtime~main.js.map": "/Mounira94/timerReact/static/js/runtime~main.f0ce548b.js.map",
-  "static/css/main.10bb2cea.chunk.css.map": "/Mounira94/timerReact/static/css/main.10bb2cea.chunk.css.map",
-  "index.html": "/Mounira94/timerReact/index.html",
-  "precache-manifest.12cdefa0ff5443cd5457c473610d56cb.js": "/Mounira94/timerReact/precache-manifest.12cdefa0ff5443cd5457c473610d56cb.js",
-  "service-worker.js": "/Mounira94/timerReact/service-worker.js"
+  "main.css": "/timerReact/static/css/main.10bb2cea.chunk.css",
+  "main.js": "/timerReact/static/js/main.cfeedaa7.chunk.js",
+  "main.js.map": "/timerReact/static/js/main.cfeedaa7.chunk.js.map",
+  "static/js/1.f0a4ce05.chunk.js": "/timerReact/static/js/1.f0a4ce05.chunk.js",
+  "static/js/1.f0a4ce05.chunk.js.map": "/timerReact/static/js/1.f0a4ce05.chunk.js.map",
+  "runtime~main.js": "/timerReact/static/js/runtime~main.5dc0662f.js",
+  "runtime~main.js.map": "/timerReact/static/js/runtime~main.5dc0662f.js.map",
+  "static/css/main.10bb2cea.chunk.css.map": "/timerReact/static/css/main.10bb2cea.chunk.css.map",
+  "index.html": "/timerReact/index.html",
+  "precache-manifest.76cf57f13ea7888ab5b74642aacfc09b.js": "/timerReact/precache-manifest.76cf57f13ea7888ab5b74642aacfc09b.js",
+  "service-worker.js": "/timerReact/service-worker.js"
 }
