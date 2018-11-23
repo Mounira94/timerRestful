@@ -12,8 +12,8 @@ class Text extends Component {
                     <span className="time-text">Second</span>
                 </div>
                 <div className="time-btn" >
-                    <button className="btn">Start</button>
-                    <button className="btn">Reset</button>
+                    <button className="btn" onClick={this.props.startStopTime}>{this.props.btnName?'Stop':'Start'}</button>
+                    <button className="btn" onClick={this.props.resetTime}>Reset</button>
                 </div>
             </main>
 
