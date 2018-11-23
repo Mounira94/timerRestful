@@ -2,7 +2,7 @@
   "name": "timerstatful",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Mounira94/timerReact",
+  "homepage": "http://Mounira94.github.io/timerReact",
   "dependencies": {
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
